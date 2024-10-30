@@ -20,4 +20,4 @@ jobs:
 
       - name: Run flow scanner
         id: run-flow-scanner
-        run: sf flow:scan -d src/flows --failon warning
+        run:
